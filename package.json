@@ -1,7 +1,7 @@
 {
-  "name": "muan-micropub-endpoint",
-  "version": "0.0.1",
-  "description": "A micropub endpoint.",
+  "name": "bzelip-micropub-endpoint",
+  "version": "0.1.0",
+  "description": "A micropub endpoint, forked from muan/micropub-endpoint",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -16,7 +16,7 @@
     "node": "10.5.x"
   },
   "repository": {
-    "url": "https://github.com/muan/micropub-endpoint"
+    "url": "https://github.com/brianzelip/micropub-endpoint"
   },
   "license": "MIT",
   "keywords": [
